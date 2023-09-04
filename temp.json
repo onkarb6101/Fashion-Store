@@ -1,0 +1,300 @@
+[{
+    "title": "Tasty",
+    "description": "Sit voluptas molestiae ut tempore sint exercitationem. Dolores doloremque ut esse consequatur ut modi quia. Eos cumque porro sit dignissimos ipsa voluptatibus nihil. Omnis numquam quod iste animi et rerum quas mollitia.",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20221109/SI6r/636b8e9af997ddfdbd663ee4/-473Wx593H-461119105-blue-MODEL.jpg",
+    "price": 302.62,
+    "inStock": false,
+    "categories": [
+      "electronics",
+      "office"
+    ],
+    "size": [
+      "L",
+      "M",
+      "XXL"
+    ],
+    "color": [
+      "green",
+      "grey"
+    ],
+    "createdAt": "2023-04-27T10:15:03.696Z",
+    "updatedAt": "2023-04-27T10:15:03.696Z",
+    "__v": 0,
+    "_id": "608951b7a7b2d82ce0f3e2d1"
+  },  
+  {
+    "title": "Gorgeous",
+    "description": "Quia corrupti atque. Reiciendis qui sit commodi aperiam est. Molestias aliquam velit. Quibusdam debitis natus et a qui voluptatem modi ullam. Fugit quas aut est tempora dolore.",
+    "image": "https://cdn.shopify.com/s/files/1/0608/7874/9892/products/qc906j1Jjl-MSH-02BBSS-049OLIVEGREEN-_1_540x.jpg?v=1673859550",
+    "price": 156.64,
+    "inStock": true,
+    "categories": [
+      "books",
+      "sports"
+    ],
+    "size": [
+      "S",
+      "M",
+      "XXL"
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "createdAt": "2023-04-27T10:15:03.733Z",
+    "updatedAt": "2023-04-27T10:15:03.733Z",
+    "__v": 0,
+    "_id": "608951b7a7b2d82ce0f3e2d2"
+  },
+  {
+    "title": "Sleek",
+    "description": "Soluta ut ullam ea iure natus voluptatem ea. Doloribus voluptatum ut commodi quia suscipit eos incidunt accusamus. Mollitia numquam expedita illum aspernatur iste blanditiis. Et doloribus molestias voluptatem ratione et aperiam et quidem. Modi quisquam natus corrupti vel. Velit nostrum aut iusto cum doloremque aperiam tempora voluptas.",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230102/R0me/63b30ae3aeb269659c1e4e50/-1117Wx1400H-462323964-pink-MODEL.jpg",
+    "price": 393.88,
+    "inStock": false,
+    "categories": [
+      "beauty",
+      "home"
+    ],
+    "size": [
+      "M",
+      "L",
+      "XS"
+    ],
+    "color": [
+      "yellow",
+      "grey"
+    ],
+    "createdAt": "2023-04-27T10:15:03.744Z",
+    "updatedAt": "2023-04-27T10:15:03.744Z",
+    "__v": 0,
+    "_id": "608951b7a7b2d82ce0f3e2d3"
+  },
+  {
+    "title": "Sleek Watch",
+    "description": "Eius minus accusamus debitis ad magni reprehenderit quasi. Dolorum possimus voluptatem laboriosam nihil rem. Est quia nemo quo animi rerum dignissimos. Iste nesciunt ratione suscipit velit rerum quibusdam corporis.",
+    "image": "https://static.zara.net/photos///2023/V/0/2/p/5400/450/064/2/w/242/5400450064_2_1_1.jpg?ts=1679656227264",
+    "price": 124.99,
+    "inStock": true,
+    "categories": [
+    "fashion",
+    "accessories"
+    ],
+    "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+    ],
+    "color": [
+    "black",
+    "silver"
+    ],
+    "createdAt": "2023-04-28T08:00:00.000Z",
+    "updatedAt": "2023-04-28T08:00:00.000Z",
+    "__v": 0,
+    "_id": "608951b7a7b2d82ce0f3e2d4"
+    },
+    {
+      "title": "Smartphone Holder",
+      "description": "Quam id et voluptatem ea voluptatem. Tempora officiis perspiciatis rem quisquam quo. Quisquam ut velit exercitationem fugiat. Ex ut est eum ut fugit.",
+      "image": "https://static.zara.net/photos///2023/V/0/2/p/0495/410/251/2/w/324/0495410251_2_1_1.jpg?ts=1673601328130",
+      "price": 19.99,
+      "inStock": true,
+      "categories": [
+      "electronics",
+      "accessories"
+      ],
+      "size": [],
+      "color": [
+      "white"
+      ],
+      "createdAt": "2023-04-27T16:30:00.000Z",
+      "updatedAt": "2023-04-27T16:30:00.000Z",
+      "__v": 0,
+      "_id": "608951b7a7b2d82ce0f3e2d5"
+      },
+      {
+        "title": "Leather Jacket",
+        "description": "Eius et voluptates atque. Asperiores facere velit doloribus eos a. Vel sint ipsam voluptate iure voluptatem mollitia. Fuga doloremque ullam repellat sunt ad ut quod animi.",
+        "image": "https://static.zara.net/photos///2023/V/0/2/p/0761/405/712/2/w/1920/0761405712_2_1_1.jpg?ts=1669977516906",
+        "price": 239.99,
+        "inStock": false,
+        "categories": [
+        "fashion",
+        "outerwear"
+        ],
+        "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+        ],
+        "color": [
+        "brown",
+        "black"
+        ],
+        "createdAt": "2023-04-26T12:45:00.000Z",
+        "updatedAt": "2023-04-26T12:45:00.000Z",
+        "__v": 0,
+        "_id": "608951b7a7b2d82ce0f3e2d6"
+        },
+        {
+          "title": "Denim Jacket",
+          "description": "This classic denim jacket features a timeless design that never goes out of style. Made with high-quality denim material, it's both durable and comfortable to wear.",
+          "image": "https://static.zara.net/photos///2023/V/0/2/p/4090/403/800/2/w/438/4090403800_1_1_1.jpg?ts=1671100308557",
+          "price": 79.99,
+          "inStock": true,
+          "categories": [
+            "fashion",
+            "outerwear"
+          ],
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ],
+          "color": [
+            "blue",
+            "black"
+          ],
+          "createdAt": "2023-04-28T10:00:00.000Z",
+          "updatedAt": "2023-04-28T10:00:00.000Z",
+          "__v": 0,
+          "_id": "608c0a4ea7b2d82ce0f3e2d7"
+        },
+        {
+          "title": "Leather Boots",
+          "description": "Step out in style with these rugged yet sophisticated leather boots. Made with high-quality leather and a sturdy sole, they're perfect for any occasion.",
+          "image": "https://images.jackjones.com/12216484/3978490/003/jackjones-crewneckt-shirt-ban.jpg?v=1c4483ccb99f976a10cc30150dd4cdfc",
+          "price": 149.99,
+          "inStock": true,
+          "categories": [
+            "fashion",
+            "footwear"
+          ],
+          "size": [
+            "US 7",
+            "US 8",
+            "US 9",
+            "US 10",
+            "US 11",
+            "US 12"
+          ],
+          "color": [
+            "brown",
+            "black"
+          ],
+          "createdAt": "2023-04-28T10:30:00.000Z",
+          "updatedAt": "2023-04-28T10:30:00.000Z",
+          "__v": 0,
+          "_id": "608c0df4a7b2d82ce0f3e2d9"
+        },
+        {
+          "title": "Denim Jeans",
+          "description": "Classic denim jeans with a straight leg fit. Made with durable denim fabric, these jeans are perfect for everyday wear.",
+          "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3a%2F81%2F3a813af37fc0e862780abf4b97977c3140b29cce.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "price": 89.99,
+          "inStock": true,
+          "categories": [
+            "fashion",
+            "bottoms"
+          ],
+          "size": [
+            "28x30",
+            "30x30",
+            "32x32",
+            "34x32",
+            "36x34"
+          ],
+          "color": [
+            "blue"
+          ],
+          "createdAt": "2023-04-28T11:00:00.000Z",
+          "updatedAt": "2023-04-28T11:00:00.000Z",
+          "__v": 0,
+          "_id": "608c160ca7b2d82ce0f3e2d10"
+        },
+        {
+          "title": "Leather Belt",
+          "description": "Complete your look with this stylish leather belt. Made with genuine leather and a sleek buckle, this belt is perfect for dressing up or down.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSRNmnWBRSu8U7pnx9qReU-3fKi7RrQMyTnJLhsbl-D4mMWXg-qwwlMJIv5pPb2KdmFA&usqp=CAU",
+          "price": 49.99,
+          "inStock": true,
+          "categories": [
+            "fashion",
+            "accessories"
+          ],
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ],
+          "color": [
+            "brown",
+            "black"
+          ],
+          "createdAt": "2023-04-28T11:30:00.000Z",
+          "updatedAt": "2023-04-28T11:30:00.000Z",
+          "__v": 0,
+          "_id": "608c1b05a7b2d82ce0f3e2d11"
+        },
+        {
+          "title": "Denim Jeans",
+          "description": "These classic denim jeans are a wardrobe staple. Made with durable denim and a comfortable fit, they're perfect for any casual occasion.",
+          "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F56%2F59%2F565911589eeea43a3f3ec3c4c0937c2c97e994be.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "price": 89.99,
+          "inStock": true,
+          "categories": [
+            "fashion",
+            "bottoms"
+          ],
+          "size": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ],
+          "color": [
+            "blue",
+            "black"
+          ],
+          "createdAt": "2023-04-28T12:30:00.000Z",
+          "updatedAt": "2023-04-28T12:30:00.000Z",
+          "__v": 0,
+          "_id": "608c2818a7b2d82ce0f3e2d12"
+        },
+        {
+          "title": "Cotton T-Shirt",
+          "description": "This soft and comfortable cotton t-shirt is perfect for everyday wear. With a classic fit and a range of colors to choose from, it's a must-have for any wardrobe.",
+          "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F27%2F1a%2F271aee5d99b2a3c444b303c8b00514a401650b99.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "price": 29.99,
+          "inStock": true,
+          "categories": [
+            "fashion",
+            "tops"
+          ],
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ],
+          "color": [
+            "white",
+            "black",
+            "gray",
+            "navy"
+          ],
+          "createdAt": "2023-04-28T13:30:00.000Z",
+          "updatedAt": "2023-04-28T13:30:00.000Z",
+          "__v": 0,
+          "_id": "608c36c0a7b2d82ce0f3e2d13"
+        }                   
+]
